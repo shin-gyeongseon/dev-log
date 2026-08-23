@@ -91,7 +91,5 @@ export class GetUserProfileUseCase {
 
 ---
 
-## 4. 연관 지식 링크
-
+- 메인 홈: [[index|DevLog]]
 - 분산 환경에서의 아키텍처 확장: [[Architecture/microservices|대규모 분산 시스템 설계 가이드]]
-- 마크다운 작성 팁: [[Guides/obsidian-guide|옵시디언 마크다운 가이드]]

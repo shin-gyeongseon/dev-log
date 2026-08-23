@@ -80,7 +80,5 @@ git push origin main
 
 ---
 
-## 4. 연관 문서
-
-- 전체 인덱스: [[index|📚 지식 정리 노트 메인]]
-- 지식 관리 방법론: [[Guides/zettelkasten|옵시디언 제텔카스텐 방법론]]
+- 메인 홈: [[index|DevLog]]
+- 시스템 아키텍처: [[Architecture/clean-architecture|소프트웨어 클린 아키텍처]]
