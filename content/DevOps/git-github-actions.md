@@ -83,4 +83,4 @@ git push origin main
 ## 4. 연관 문서
 
 - 전체 인덱스: [[index|📚 지식 정리 노트 메인]]
-- 지식 관리 방법론: [[posts/04-effective-knowledge-management|옵시디언 제텔카스텐 방법론]]
+- 지식 관리 방법론: [[Guides/zettelkasten|옵시디언 제텔카스텐 방법론]]

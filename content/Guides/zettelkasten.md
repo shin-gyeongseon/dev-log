@@ -61,6 +61,6 @@ tags:
 
 ## 4. 연관 노트
 
-- 마크다운 문법 익히기: [[posts/01-obsidian-markdown-guide|옵시디언 마크다운 가이드]]
-- 아키텍처 지식 정리: [[posts/02-software-clean-architecture|소프트웨어 클린 아키텍처]]
-- 배포 자동화: [[posts/03-git-github-pages-workflow|GitHub Actions 배포 파이프라인]]
+- 마크다운 문법 익히기: [[Guides/obsidian-guide|옵시디언 마크다운 가이드]]
+- 아키텍처 지식 정리: [[Architecture/clean-architecture|소프트웨어 클린 아키텍처]]
+- 배포 자동화: [[DevOps/git-github-actions|GitHub Actions 배포 파이프라인]]
