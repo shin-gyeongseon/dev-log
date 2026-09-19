@@ -79,8 +79,6 @@ async def get_user_data(user_id: str):
 
 ---
 
-## 4. 연관 문서
-
-- 코드 레벨의 아키텍처: [[posts/02-software-clean-architecture|소프트웨어 클린 아키텍처]]
-- 메인 인덱스: [[index|📚 지식 정리 노트 메인]]
-- 배포 파이프라인: [[posts/03-git-github-pages-workflow|GitHub Actions 배포 파이프라인]]
+- 메인 홈: [[index|DevLog]]
+- 코드 레벨 아키텍처: [[Architecture/clean-architecture|소프트웨어 클린 아키텍처]]
+- 배포 파이프라인: [[DevOps/git-github-actions|GitHub Actions 배포 파이프라인]]
