@@ -7,7 +7,6 @@ tags:
   - backend
   - design-pattern
 ---
-
 # 소프트웨어 클린 아키텍처와 계층형 설계 패턴
 
 소프트웨어 시스템의 지속 가능성과 테스트 용이성을 극대화하기 위한 클린 아키텍처(Clean Architecture) 원칙을 정리합니다.
